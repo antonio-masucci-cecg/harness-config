@@ -54,7 +54,7 @@ phases:
         scriptString: |-
           set -eu
 
-          curl nginx-svc.dev.svc.cluster
+          curl nginx-svc.dev.svc
         scriptType: BASH
         sshKeyRefName: null
         sweepingOutputName: null
