@@ -1,0 +1,11 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+delegateSelectors:
+- eks
+keyAuth: false
+password: gcpkms:gh-password
+providerType: GIT
+url: https://github.com/antonio-masucci-cecg/harness-config.git
+urlType: REPO
+username: antonio-masucci-cecg

@@ -1,0 +1,9 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: gcpkms:git-sync-password
+providerType: GIT
+url: https://antonio-masucci@bitbucket.org/antonio-masucci/config.git
+urlType: REPO
+username: antonio-masucci
